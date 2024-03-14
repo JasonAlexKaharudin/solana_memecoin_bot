@@ -1,0 +1,7 @@
+# flyctl launch added from .gitignore
+**/.vscode
+**/.env
+**/fly.toml
+**/memecoin_env
+**/*.session
+**/*.session-journal
